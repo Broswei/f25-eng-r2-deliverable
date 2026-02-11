@@ -87,10 +87,10 @@ git clone git@github.com:hcs-t4sg/f25-eng-r2-deliverable.git
 
   ```bash
   added 414 packages, and audited 415 packages in 13s
-  
+
   149 packages are looking for funding
   run `npm fund` for details
-  
+
   found 0 vulnerabilities
   ```
 
