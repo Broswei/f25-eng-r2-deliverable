@@ -7,7 +7,7 @@ import { Providers } from "./providers";
 
 export const metadata = {
   title: "T4SG Biodiversity Hub",
-  description: "T4SG Deliverable for Spring 2024 Applications.",
+  description: "T4SG Deliverable for Fall 2026 Applications.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
